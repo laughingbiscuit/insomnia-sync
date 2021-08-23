@@ -1,7 +1,7 @@
 _id: spc_0c96dd489f874509bb30d6375b1459e2
 type: ApiSpec
 parentId: wrk_d7ff7b0f32394643866860f5c06430c4
-modified: 1629721279973
+modified: 1629721435564
 created: 1629205903833
 fileName: Swagger Petstore 1.0.2
 contents: |
@@ -9,7 +9,7 @@ contents: |
   info:
     description: "This is a generated OpenAPI Specification for managing dogs"
     version: v1
-    title: My dogs API
+    title: My Dogs API
     termsOfService: https://developer.example.com/terms/
     contact:
       email: api@example.com
